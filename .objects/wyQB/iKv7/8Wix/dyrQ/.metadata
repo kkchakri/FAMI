@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dyrQbEkOpEGlwCXoqgZXjw",
+  "Reference": "cp3i8JF_rEa58v8Ie2Aorw/dyrQbEkOpEGlwCXoqgZXjw",
+  "ParentRef": "cp3i8JF_rEa58v8Ie2Aorw/8WixyI8B9E6XR6QbUqxMMw",
+  "Name": "Date of Birth",
+  "Type": "Element",
+  "TaxonomyType": "DatePicker",
+  "Created": "2023-07-20T06:55:53.4029747Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-20T06:56:29.5528614Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

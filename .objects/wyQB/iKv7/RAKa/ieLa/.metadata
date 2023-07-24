@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ieLasW6NfUCwEhsw8wkmnw",
+  "Reference": "cp3i8JF_rEa58v8Ie2Aorw/ieLasW6NfUCwEhsw8wkmnw",
+  "ParentRef": "cp3i8JF_rEa58v8Ie2Aorw/RAKa6CPha0aRiFXRrIgIBw",
+  "Name": "Full Name of Customer",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2023-07-20T07:21:02.8581948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-20T07:21:31.0727909Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

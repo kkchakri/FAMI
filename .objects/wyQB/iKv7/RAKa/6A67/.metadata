@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6A67T4Kz3kWf3Yauq-sP8A",
+  "Reference": "cp3i8JF_rEa58v8Ie2Aorw/6A67T4Kz3kWf3Yauq-sP8A",
+  "ParentRef": "cp3i8JF_rEa58v8Ie2Aorw/RAKa6CPha0aRiFXRrIgIBw",
+  "Name": "Terms & Conditions check Box",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2023-07-20T07:22:22.5682862Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-20T07:22:54.8307066Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "RAKa6CPha0aRiFXRrIgIBw",
+  "Reference": "cp3i8JF_rEa58v8Ie2Aorw/RAKa6CPha0aRiFXRrIgIBw",
+  "ParentRef": "cp3i8JF_rEa58v8Ie2Aorw/iKv7Y3gvlk2WXcROaKPN4Q",
+  "Name": "Attention Screen",
+  "Type": "Screen",
+  "Created": "2023-07-20T07:19:46.9256871Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-20T07:20:31.6532772Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

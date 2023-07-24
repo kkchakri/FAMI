@@ -1,0 +1,15 @@
+﻿{
+  "Id": "8WixyI8B9E6XR6QbUqxMMw",
+  "Reference": "cp3i8JF_rEa58v8Ie2Aorw/8WixyI8B9E6XR6QbUqxMMw",
+  "ParentRef": "cp3i8JF_rEa58v8Ie2Aorw/iKv7Y3gvlk2WXcROaKPN4Q",
+  "Name": "New Regestriation Screen",
+  "Type": "Screen",
+  "Created": "2023-07-20T06:41:02.172566Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-20T06:41:08.5119612Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
